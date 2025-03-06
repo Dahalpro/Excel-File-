@@ -1,4 +1,4 @@
-#Excel Project 
+Excel Project 
 This is my Excel Projects repository! It contains various projects built using Microsoft Excel, leveraging different functions and formulas. The projects focus on data analysis, data visualization, and reporting to support better decision-making.
 #Purpose 
 This repository serves as a centralized space to store and track all my Excel projects, improving efficiency and accessibility for future enhancements and collaborations.
