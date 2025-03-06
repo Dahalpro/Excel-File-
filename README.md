@@ -10,6 +10,7 @@ This repository serves as a centralized space to store and track all my Excel pr
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Projects Included**
+
 1) 📊 Budget Tracking in Excel
 
 This project is an Excel-based budget tracking system that helps visualize income, expenses, and savings trends using different charts.
