@@ -21,12 +21,16 @@ This project is an Excel-based budget tracking system that helps visualize incom
 
 Shows the increase and decrease in income over time.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 💸 Expense Funnel Chart
+
+![Alt Text](https://github.com/Dahalpro/Excel-File-/blob/main/expenses%20chart.PNG?raw=true)
+
 Represents how expenses reduce across different categories.
-![Alt Text](image_path)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🏦 Savings vs Expenses Donut Chart
 Provides a clear percentage breakdown of savings and expenses.
