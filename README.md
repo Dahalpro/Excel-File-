@@ -16,7 +16,7 @@ This project is an Excel-based budget tracking system that helps visualize incom
 
 💰 Income Waterfall Chart
 Shows the increase and decrease in income over time.
-![Alt Text](image_path)
+![Alt Text](https://github.com/Dahalpro/Excel-File-/blob/main/Income%20Tracking.PNG?raw=true)
 
 
 💸 Expense Funnel Chart
