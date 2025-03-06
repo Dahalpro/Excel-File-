@@ -25,11 +25,4 @@ Represents how expenses reduce across different categories.
 🏦 Savings vs Expenses Donut Chart
 Provides a clear percentage breakdown of savings and expenses.
 
-📂 How to Use
-1️⃣ Download the Excel file.
-2️⃣ Enter your income and expense details.
-3️⃣ The charts will update automatically to show trends.
 
-🛠 Customization
-You can modify categories as per your needs.
-Add more advanced analytics with Excel formulas.
