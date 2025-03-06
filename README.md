@@ -33,9 +33,14 @@ Represents how expenses reduce across different categories.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🏦 Savings vs Expenses Donut Chart
+
+
+![Alt Text](https://github.com/Dahalpro/Excel-File-/blob/main/Donut%20Chart.PNG?raw=true)
+
 Provides a clear percentage breakdown of savings and expenses.
 
-![Alt Text](image_path)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+Similarly If you want to track your daily , weely or montly we can follow same steps as I did for yearly . 
+Thank You 
 
