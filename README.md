@@ -10,7 +10,6 @@ This project is an Excel-based budget tracking system that helps visualize incom
 
 ✔️ Savings vs Expenses – Represented using a Donut Chart for clear percentage breakdowns.
 
-✔️ Automatic Net Profit Calculation – Calculates savings percentage and expenses percentage.
 
 
 📈 Visualizations
