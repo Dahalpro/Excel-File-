@@ -41,6 +41,6 @@ Provides a clear percentage breakdown of savings and expenses.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Similarly If you want to track your daily , weely or montly we can follow same steps as I did for yearly . 
+Similarly , Following this steps we can track our daily , weekly or montly budget chart as I did for Yearly Budgeting . 
 Thank You 
 
