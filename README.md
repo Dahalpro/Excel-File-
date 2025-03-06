@@ -6,7 +6,7 @@ This is my Excel Projects repository! It contains various projects built using M
 
 This repository serves as a centralized space to store and track all my Excel projects, improving efficiency and accessibility for future enhancements and collaborations.
 
-**#Projects Included**
+**Projects Included**
 1) 📊 Budget Tracking in Excel
 
 This project is an Excel-based budget tracking system that helps visualize income, expenses, and savings trends using different charts.
