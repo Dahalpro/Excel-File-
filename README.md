@@ -21,6 +21,8 @@ This project is an Excel-based budget tracking system that helps visualize incom
 
 Shows the increase and decrease in income over time.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 💸 Expense Funnel Chart
 Represents how expenses reduce across different categories.
